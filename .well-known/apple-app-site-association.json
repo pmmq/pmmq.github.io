@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "QGJX894FG8.com.vyond.mobile",
+                "paths": [ "/mobile/*" ]
+            }
+        ]
+    }
+}
